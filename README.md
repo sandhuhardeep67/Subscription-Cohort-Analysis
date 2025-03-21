@@ -11,9 +11,9 @@
 
 </a>
 <p>
-  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Subscription_Cohort_Analysis/main/images/image1.png">
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Subscription-Cohort-Analysis/main/images/image1.png">
 </p>
 </a>
 <p>
-  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Subscription_Cohort_Analysis/main/images/image2.png">
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Subscription-Cohort-Analysis/main/images/image2.png">
 </p>
